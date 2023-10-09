@@ -3,6 +3,7 @@ This is a multi-function face recognition system. Our system combines the face r
 
 ### MFRS Modules
 <img width="403" alt="face_recognition_model-removebg-preview" src="https://github.com/Li-8023/Multi-function-face-recognition/assets/80284104/980bf72b-27fb-45ca-84a5-7af7f93ee433">
+
 ### Face_recognition OpenSource Library 
 Follow this GitHub link to install face_recognition (https://github.com/ageitgey/face_recognition)
 
